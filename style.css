@@ -136,9 +136,8 @@ body {
     .footer {
         align-items: flex-start;
         flex-direction: column;
-
     }
     .footer a {
-        margin-bottom: 5px;
+        margin-bottom: 8px;
     }
 }
